@@ -1,7 +1,6 @@
-Python 3.7+
-Streamlit
+streamlit
 scikit-learn
+pandas
 matplotlib
 seaborn
 numpy
-pandas
